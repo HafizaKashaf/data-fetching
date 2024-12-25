@@ -1,4 +1,4 @@
-import Navbar from "@/app/component/Navbar";
+import Navbar from "@/app/components/Navbar";
 
 type Data = {
     id: number,
