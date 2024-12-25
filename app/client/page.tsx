@@ -1,6 +1,6 @@
 "use client"
 
-import Navbar from "@/app/components/Navbar";
+import Navbar from "@/app/component/Navbar";
 import React, { useState, useEffect } from "react"
 import Image from "next/image"
 import { IoIosStar } from "react-icons/io";
