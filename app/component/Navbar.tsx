@@ -13,7 +13,7 @@ const Navbar = () => {
         {/* Nav Links */}
         <ul className='lg:flex flex flex-row text-white  items-center space-x-2 md:space-x-6 xl:space-x-10'>
             <li className='navlink '>
-                <Link href="home">Home</Link>
+                <Link href="/">Home</Link>
             </li>
             <li className='navlink'>
                 <Link href="client">ClientSide</Link>
